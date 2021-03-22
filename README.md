@@ -1,4 +1,4 @@
-# Venom
+# Ophiomormous
 
 ## A collection of useful Python functions ported to JavaScript
 

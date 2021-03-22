@@ -16,5 +16,8 @@
     ],
     "author": "Drew Markel <drewmrk8@gmail.com>",
     "type": "module",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "ophiomormous": "^1.0.0"
+    }
 }

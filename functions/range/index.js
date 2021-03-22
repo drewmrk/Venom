@@ -4,7 +4,7 @@
  * @param {number} start
  * @returns {number[]} result
  */
-const range = (start, end, step = 0) => {
+const range = (start, end, step = 1) => {
     let result = []
     for (let i = start; i < end; i += step) {
         result.push(i)
