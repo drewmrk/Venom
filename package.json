@@ -1,0 +1,20 @@
+{
+    "name": "ophiomormous",
+    "description": "Collection of useful Python functions ported to JavaScript",
+    "homepage": "https://github.com/drewmrk/ophiomormous",
+    "bugs": {
+        "url": "https://github.com/drewmrk/ophiomormous/issues"
+    },
+    "version": "1.0.0",
+    "main": "index.js",
+    "keywords": [
+        "python",
+        "array",
+        "object",
+        "snake",
+        "ophiomormous"
+    ],
+    "author": "Drew Markel <drewmrk8@gmail.com>",
+    "type": "module",
+    "license": "MIT"
+}
