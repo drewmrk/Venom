@@ -109,5 +109,5 @@ export const range = (start, end, step = 1) => {
  * @returns {number}
  */
 export const sum = input => {
-    input.reduce((start, end) => start + end)
+    return input.reduce((start, end) => start + end)
 }
