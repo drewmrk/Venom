@@ -9,7 +9,7 @@
 Returns `true` if all values are `true`
 
 ```js
-import { all } from 'venom'
+import { all } from 'ophiomormous'
 
 all([1, true, 0, false])
 ```
@@ -19,7 +19,7 @@ all([1, true, 0, false])
 Returns `true` if only one value is `true`
 
 ```js
-import { any } from 'venom'
+import { any } from 'ophiomormous'
 
 any([1, true, 0, false])
 ```
@@ -29,7 +29,7 @@ any([1, true, 0, false])
 Returns the quotient and remainder in a list
 
 ```js
-import { divmod } from 'venom'
+import { divmod } from 'ophiomormous'
 
 divmod(36, 7)
 ```
@@ -39,7 +39,7 @@ divmod(36, 7)
 Returns a list of object with the character as the value and its index as the key
 
 ```js
-import { enumerate } from 'venom'
+import { enumerate } from 'ophiomormous'
 
 enumerate("Hello")
 ```
@@ -49,7 +49,7 @@ enumerate("Hello")
 Returns the largest number
 
 ```js
-import { max } from 'venom'
+import { max } from 'ophiomormous'
 
 max([9, 89, 8, 3, 0])
 ```
@@ -59,7 +59,7 @@ max([9, 89, 8, 3, 0])
 Returns the smallest number
 
 ```js
-import { min } from 'venom'
+import { min } from 'ophiomormous'
 
 min([9, 89, 8, 3, 0])
 ```
@@ -69,7 +69,7 @@ min([9, 89, 8, 3, 0])
 Returns a list of numbers through a specified range and step
 
 ```js
-import { range } from 'venom'
+import { range } from 'ophiomormous'
 
 range(7, 39, 8)
 ```
@@ -79,7 +79,7 @@ range(7, 39, 8)
 Returns the sum of all values
 
 ```js
-import { sum } from 'venom'
+import { sum } from 'ophiomormous'
 
 sum([9, 7, 3, 22, 4])
 ```

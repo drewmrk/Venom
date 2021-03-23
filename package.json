@@ -5,7 +5,7 @@
     "bugs": {
         "url": "https://github.com/drewmrk/ophiomormous/issues"
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "index.js",
     "keywords": [
         "python",
